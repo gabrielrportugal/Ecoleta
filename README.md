@@ -29,14 +29,34 @@ Durante a Next Level Week (Evento gratuito da RocketSeat) criamos todo o back-en
 
 ![prints](https://user-images.githubusercontent.com/44583521/83802621-714bb380-a681-11ea-9ba3-2baa468300fe.png)
 
+## Tela inicial Web
+![ecoleta](https://user-images.githubusercontent.com/44583521/83927055-1342cd00-a762-11ea-9c99-43d44094a6fe.png)
+
+## Tela de cadastro e upload de imagens Web
+![ecoleta cadastro](https://user-images.githubusercontent.com/44583521/83927079-25bd0680-a762-11ea-8395-4bb78fa187b2.png)
+
+## Tela de cadastro de endereço WEB
+![ecoleta endereço e itens](https://user-images.githubusercontent.com/44583521/83927084-2d7cab00-a762-11ea-90f6-e9fe29b212a4.png)
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- [TypeScript](https://www.typescriptlang.org/)
+- [Node](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [Knex](http://knexjs.org/)
+- [Multer](https://github.com/expressjs/multer)
+- [Celebrate](https://github.com/arb/celebrate)
+- [React Js](https://pt-br.reactjs.org/)
+- [Leaflet](https://leafletjs.com/)
+- [React Dropzone](https://github.com/react-dropzone/react-dropzone)
 - [Expo](https://expo.io/)
 - [React Native](https://facebook.github.io/react-native/)
 - [React Native Maps](https://www.npmjs.com/package/react-native-maps)
 - [React Navigation](https://reactnavigation.org/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/) 
 
 ## 🏃‍♂️ Instalando o projeto
 
