@@ -65,6 +65,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ### SERVER
 
 - `npm install` para instalar todas as dependências.
+- `npm run knex:migrate` para criar as tabelas no banco de dados.
+- `npm run knex:migrate` para inserir dados na tabela "Items".
 - `npm dev` para incializar o o servidor back-end.
 
 ### WEB
